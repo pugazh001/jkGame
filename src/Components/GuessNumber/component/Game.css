@@ -1,0 +1,86 @@
+
+.body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 15%;
+}
+.wrapper{
+    padding: 10px;
+    border: 2px solid white;
+    width: 500px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    height: 320px;
+    position: relative;
+
+}
+.guess-game{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.input{
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 10px;
+  
+
+}
+.input:focus{
+    background-color: rgb(214, 214, 214);
+}
+
+
+.game-name{
+    color: gold;
+    margin-left: 80px;
+}
+.description{
+  color: rgb(141, 141, 141);
+  
+}
+.ques{
+    color: red;
+
+}
+.result{
+    color: rgb(255, 2, 242);
+}
+/*
+.game-name{
+   color: yellow;
+   margin-left: 50px;
+ 
+}
+.description{
+    color: white;
+    
+}
+.ques{
+    color: red;
+
+}
+.result{
+    color: green;
+}
+
+@media only screen and (max-width: 600px) {
+ .guess{
+    margin-left: 20px;
+   
+    margin-right: 20px;
+    margin-top: 200px;
+    
+ }
+ .input{
+   
+    border: 2px solid yellow;
+    border-radius: 2px solid yellow;
+    }
+
+}
+*/

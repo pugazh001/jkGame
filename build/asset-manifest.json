@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funGame/static/css/main.d111de4d.css",
+    "main.js": "/funGame/static/js/main.7ab144d4.js",
+    "index.html": "/funGame/index.html",
+    "main.d111de4d.css.map": "/funGame/static/css/main.d111de4d.css.map",
+    "main.7ab144d4.js.map": "/funGame/static/js/main.7ab144d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d111de4d.css",
+    "static/js/main.7ab144d4.js"
+  ]
+}

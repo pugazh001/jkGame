@@ -1,0 +1,119 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Pathway+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Permanent+Marker&family=Ubuntu:wght@300&display=swap');
+.header{
+    color: yellow;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.es{
+    color: rgb(19, 238, 19);
+    font-family: 'Ma Shan Zheng', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Ubuntu', sans-serif;
+font-size: 30px;
+}
+.logo{
+    
+    background-color: rgb(255, 51, 0);
+}
+
+.grid{
+   
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin-right: 20px;
+   justify-content:start;
+   
+
+  
+
+   
+    
+  }
+  .card-image{
+    height: 100px;
+  }
+  .child{
+    margin: 5px;
+  
+  }
+.grid-head{
+    
+   
+   width: 400px;
+   margin: 20px;  
+
+}
+
+
+.guess-number{
+     border: 2px solid yellow; 
+      margin-bottom: 20px;
+      background-color: rgb(9, 129, 138);
+      padding: 20px;
+      margin-right: 50px;
+     
+     
+      
+}
+.game-name{
+
+    color:white;
+    margin-top: 10px;
+    font-weight: 50px;
+
+
+}
+ 
+.detail{
+   color: rgb(252, 217, 217);
+   text-indent: 10px;
+   margin-right: 5px;
+   height: 40px;
+}
+.play{
+    text-decoration: none;
+    color: white;
+    
+}
+.button{
+    background-color: rgb(194, 22, 108);
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Styles for small screens */
+    .grid{
+        
+        width: 320px;
+        display: block;
+        margin-left: 20px;
+    }
+    .header{
+        text-align: center;
+    }
+    .detail{
+        
+        width: 250px;
+    }
+    .guess-number{
+        margin-right: 20px;
+    }
+ }
+ 
+ @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for medium screens */
+ }
+ 
+ @media only screen and (min-width: 1025px) {
+    /* Styles for large screens */
+ }
+ 
