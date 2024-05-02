@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jkGame/static/css/main.d111de4d.css",
+    "main.js": "/jkGame/static/js/main.7d264a13.js",
+    "index.html": "/jkGame/index.html",
+    "main.d111de4d.css.map": "/jkGame/static/css/main.d111de4d.css.map",
+    "main.7d264a13.js.map": "/jkGame/static/js/main.7d264a13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d111de4d.css",
+    "static/js/main.7d264a13.js"
+  ]
+}
